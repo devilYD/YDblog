@@ -97,8 +97,6 @@ exclude:
 ignore:
 
 
-post_asset_folder: true
-
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
