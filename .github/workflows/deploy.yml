@@ -9,9 +9,9 @@ env:
   GIT_USER: devilYD
   GIT_EMAIL: 347231240@qq.com
   THEME_REPO: next-theme/hexo-theme-next
-  THEME_BRANCH: branch
+  THEME_BRANCH: master
   DEPLOY_REPO: devilYD/devilYD.github.io
-  DEPLOY_BRANCH: master
+  DEPLOY_BRANCH: main
 
 jobs:
   build:
