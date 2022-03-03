@@ -105,5 +105,5 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: https://github.com/devilYD/devilyd.github.io.git
-  branch: gh-papges
+  repository: git@github.com:devilYD/devilYD.github.io.git
+  branch: master
